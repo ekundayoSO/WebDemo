@@ -11,6 +11,7 @@ directory to be running.
 
 ```bash
 python demoapp/server.py
+python3 demoapp/server.py
 ```
 
 After the demo application is started, it will be available at the URL
